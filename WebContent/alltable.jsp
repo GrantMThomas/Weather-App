@@ -598,7 +598,8 @@
         
 
     </script>
-    <script 
-  	src="https://maps.googleapis.com/maps/api/js?key=AIzaSyAS8H7kq0xX5QNOzv__yFrBtqdURhP2zHA&callback=initMap" async defer>
+    <script>
+	//Key is expired
+  	src="https://maps.googleapis.com/maps/api/js?key=AIzaSyAS8&callback=initMap" async defer>
 	</script>
 </html>
